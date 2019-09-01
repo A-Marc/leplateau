@@ -3,7 +3,7 @@
     {
       "title"    : "Le Mad Men",
       "category" : "",
-      "tags"     : "Cocktail à la Vodka",
+      "tags"     : "Vodka",
       "url"      : "/leplateau/i-conquer-the-himalayas/",
       "date"     : "2017-08-25 12:32:20 +0200"
     } ,
@@ -11,7 +11,7 @@
     {
       "title"    : "Le Gatsby",
       "category" : "",
-      "tags"     : "Cocktail à la Tequila",
+      "tags"     : "Tequila",
       "url"      : "/leplateau/i-meet-the-sunset/",
       "date"     : "2017-08-24 12:32:20 +0200"
     } ,
@@ -19,7 +19,7 @@
     {
       "title"    : "L&#39;ocean eleven",
       "category" : "",
-      "tags"     : "Cocktails au Rhum",
+      "tags"     : "Rhum",
       "url"      : "/leplateau/meeting-with-adventures/",
       "date"     : "2017-08-23 12:32:20 +0200"
     } ,
@@ -27,7 +27,7 @@
     {
       "title"    : "Le Pulp Fiction",
       "category" : "",
-      "tags"     : "Cocktails au Rhum",
+      "tags"     : "Rhum",
       "url"      : "/leplateau/snowboarding-and-my-life/",
       "date"     : "2017-08-22 12:32:20 +0200"
     } ,
@@ -35,7 +35,7 @@
     {
       "title"    : "Le Grand Bleu",
       "category" : "",
-      "tags"     : "Cocktails au Gin",
+      "tags"     : "Gin",
       "url"      : "/leplateau/time-to-think/",
       "date"     : "2017-08-21 12:32:20 +0200"
     } ,
@@ -43,7 +43,7 @@
     {
       "title"    : "Le James Bond",
       "category" : "",
-      "tags"     : "Cocktails à la Vodka",
+      "tags"     : "Vodka",
       "url"      : "/leplateau/the-forest-in-the-fog/",
       "date"     : "2017-08-20 12:32:20 +0200"
     } 
