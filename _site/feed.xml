@@ -1,5 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-09T15:36:29+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Le Plateau - Les Cocktails inspirés du cinéma</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><author><name>Alix &amp; Marc</name></author><entry><title type="html">Le Petit Trianon</title><link href="http://localhost:4000/petit-trianon/" rel="alternate" type="text/html" title="Le Petit Trianon" /><published>2019-09-01T12:32:20+02:00</published><updated>2019-09-01T12:32:20+02:00</updated><id>http://localhost:4000/petit-trianon</id><content type="html" xml:base="http://localhost:4000/petit-trianon/">&lt;h2 id=&quot;inspiré-du-film-marie-antoinette-sofia-coppola-2008&quot;&gt;Inspiré du film Marie-Antoinette, Sofia Coppola, 2008&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-10T22:48:03+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Le Plateau - Les Cocktails inspirés du cinéma</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><author><name>Alix &amp; Marc</name></author><entry><title type="html">La Liane Folie</title><link href="http://localhost:4000/liane-folie/" rel="alternate" type="text/html" title="La Liane Folie" /><published>2019-09-10T12:32:20+02:00</published><updated>2019-09-10T12:32:20+02:00</updated><id>http://localhost:4000/liane-folie</id><content type="html" xml:base="http://localhost:4000/liane-folie/">&lt;p&gt;Le Liane Folie, inspiré du film Tarzan, de Kevin Lima &amp;amp; Chris Buck des Studios Disney, 1999&lt;/p&gt;
+
+&lt;p&gt;Tantor : Maman ! Es-tu sûre que cette eau est très hygiénique ?
+Tok : Quelle sorte d’animal primitif est responsable de cette pagaille ?&lt;/p&gt;
+
+&lt;p&gt;Certes, Tarzan a grandit parmi les singes, néanmoins, à l’origine, ce petit d’homme est le fils d’anglais raffiné. Pour se retrouver à la jonction de ces univers …&lt;/p&gt;
+
+&lt;p&gt;Pour 1 cocktail :&lt;/p&gt;
+
+&lt;p&gt;1/2 concombre
+1 jus de citron vert frais
+1 cl de sirop de sucre de canne
+Feuilles de menthe
+1,5 cl de Charteuses
+Eau pétillante
+Glaçons&lt;/p&gt;
+
+&lt;p&gt;Pour la décoration :&lt;/p&gt;
+
+&lt;p&gt;• 1 branche de menthe
+• 1 rondelle de concombre épluchée de façon alternée&lt;/p&gt;
+
+&lt;p&gt;La préraration :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pelez le concombre avec un économe, afin d’en obtenir de fines lamelles&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pressez le jus de citron et mettez-le au fond du verre avec le sirop de sucre de canne, quelques feuilles de menthe frappées, et quelques lamelles de concombre&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pilonnez le fonds du verre avec la Chartreuse&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Remplir le reste du verre avec un mélange de morceaux de citrons verres, de lamelles de concombres et de glaçons&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ajoutez l’eau pétillante&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Dégustez immédiatement !&lt;/p&gt;</content><author><name>Alix &amp; Marc</name></author><category term="Tarzan" /><summary type="html">Le Liane Folie, inspiré du film Tarzan, de Kevin Lima &amp;amp; Chris Buck des Studios Disney, 1999</summary></entry><entry><title type="html">Le Petit Trianon</title><link href="http://localhost:4000/petit-trianon/" rel="alternate" type="text/html" title="Le Petit Trianon" /><published>2019-09-01T12:32:20+02:00</published><updated>2019-09-01T12:32:20+02:00</updated><id>http://localhost:4000/petit-trianon</id><content type="html" xml:base="http://localhost:4000/petit-trianon/">&lt;h2 id=&quot;inspiré-du-film-marie-antoinette-sofia-coppola-2008&quot;&gt;Inspiré du film Marie-Antoinette, Sofia Coppola, 2008&lt;/h2&gt;
 
 &lt;p&gt;&lt;em&gt;– Tout ceci est ridicule ! &lt;br /&gt;
 – Tout ceci Madame, c’est Versailles !&lt;/em&gt; &lt;br /&gt;
