@@ -9,9 +9,8 @@ author: # Add name author (optional)
 ---
 ## Inspiré du film Marie-Antoinette, Sofia Coppola, 2008
 
-*&ndash; Tout ceci est ridicule ! <br>
-&ndash; Tout ceci Madame, c'est Versailles !* <br>
-*...*  <br>
+>&ndash; Tout ceci est ridicule ! <br> &ndash; Tout ceci Madame, c'est Versailles !
+
 *Pour échapper aux colifichets de la Cour, Marie-Antoinette se retrouvait en cercles intimistes dans ses salons du petit Trianon pour y déguster son cocktail favori.*
 
 **Pour 1 cocktail :**
