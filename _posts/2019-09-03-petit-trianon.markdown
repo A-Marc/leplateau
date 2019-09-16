@@ -4,6 +4,7 @@ title: Le Petit Trianon
 date: 2019-09-01 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: petit-trianon.png # Add image post (optional)
+imgmini: petit-trianon-mini.jpg # Add image post (optional)
 tags: [Marie-Antoinette]
 author: # Add name author (optional)
 ---
