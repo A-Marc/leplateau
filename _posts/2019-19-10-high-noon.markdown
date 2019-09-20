@@ -1,0 +1,44 @@
+---
+layout: post
+title: Le High Noon
+date: 2019-09-10 13:32:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: high-noon.png # Add image post (optional)
+imgmini : high-noon.png
+tags: [Le train sifflera trois fois]
+author: # Add name author (optional)
+---
+
+## Le High Noon, inspiré du film Le Train sifflera trois fois, de Fred Zinneman, 1952
+
+>Vous avez accepté d’être volontaires pour combattre cette bande, la lutte continue<br>
+>La situation était différente en ce temps là, vous étiez régulièrement six dans la police et vos hommes tiraient bien. Vous n'êtes plus que deux aujourd’hui...
+
+Anxieux, Gary Cooper, au comptoir du Saloon, n’a plus qu’à attendre seul la bande de Franck Miller qui débarque du train le jour même à midi pile après les 3 sifflements de freinage...
+
+*Pour 1 cocktail*
+
+3 cl de sirop d’érable <br>
+1 jus de citron jaune <br>
+1 pincée de cannelle en poudre <br>
+1,5 cl de Whisky ambré <br>
+Glaçons <br>
+
+*Pour la décoration*
+
+• 1 bâton de cannelle <br>
+
+*La préparation*
+
+*1.* Dans le shaker, mélangez le whisky, le sirop d’érable légèrement dilué à l’eau et la cannelle, sans secouer, pour obtenir un tout homogène
+
+*2.* Pressez le jus de citron jaune et incorporez le au shaker avec des glaçons.  
+
+*3.* Shakez !
+
+*4.* Remplir le verre de glaçons et versez le mélange shaké sur les glaçons
+
+*5.* Déposez le bâton de cannelle sur le dessus pour la finition.
+
+Dégustez immédiatement !
+
