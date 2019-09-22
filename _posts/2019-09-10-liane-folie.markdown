@@ -4,7 +4,7 @@ title: La Liane Folie
 date: 2019-09-10 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: liane-folie-v2.png # Add image post (optional)
-imgmini : liane-folie-v2.png
+imgmini : liane-folie-v2-mini.png
 tags: [Tarzan]
 author: # Add name author (optional)
 ---
