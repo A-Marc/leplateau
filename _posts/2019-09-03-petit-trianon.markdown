@@ -28,7 +28,7 @@ author: # Add name author (optional)
 • 1 macaron framboise<br>
 • 1 pétale de rose<br>
 
-**La préraration :**
+**La préparation :**
 
 **1.** Mixer la crème de framboise, les framboises et la glace pilée
 

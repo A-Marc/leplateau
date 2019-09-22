@@ -3,13 +3,13 @@ layout: post
 title: La Liane Folie
 date: 2019-09-10 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: liane-folie.png # Add image post (optional)
-imgmini : liane-folie-mini.jpg
+img: liane-folie-v2.png # Add image post (optional)
+imgmini : liane-folie-v2.png
 tags: [Tarzan]
 author: # Add name author (optional)
 ---
 
-## Le Liane Folie, inspiré du film Tarzan, de Kevin Lima & Chris Buck des Studios Disney, 1999
+## Le Liane Folie, inspiré du film Tarzan, de K. Lima & C. Buck des Studios Disney, 1999
 
 >Tantor : Maman ! Es-tu sûre que cette eau est très hygiénique ? <br>
 >Tok : Quelle sorte d’animal primitif est responsable de cette pagaille ?
@@ -31,7 +31,7 @@ Glaçons <br>
 • 1 branche de menthe <br>
 • 1 rondelle de concombre épluchée de façon alternée <br>
 
-**La préraration :**
+**La préparation :**
 
 **1.** Pelez le concombre avec un économe, afin d'en obtenir de fines lamelles
 
