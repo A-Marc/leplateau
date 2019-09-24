@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Le Mambo",
+      "category" : "",
+      "tags"     : "West Side Story",
+      "url"      : "/mambo/",
+      "date"     : "2019-09-24 12:32:20 +0200"
+    } ,
+  
+    {
       "title"    : "Le High Noon",
       "category" : "",
       "tags"     : "Le train sifflera trois fois",
