@@ -40,5 +40,7 @@ author: # Add name author (optional)
 
 **5.** Ajoutez les éléments de décoration autour du cocktail
 
-Dégustez immédiatement !
+Dégustez immédiatement ! <br><br>
+
+![Marie-Antoinette]({{site.baseurl}}/assets/img/petit-trianon-film.jpg)
 
