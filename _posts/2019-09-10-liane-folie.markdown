@@ -9,12 +9,12 @@ tags: [Tarzan]
 author: # Add name author (optional)
 ---
 
-## Inspiré du film Tarzan, de K. Lima & C. Buck des Studios Disney, 1999
+## Inspiré du film *Tarzan*, de K. Lima & C. Buck des Studios Disney, 1999
 
 >Tantor : Maman ! Es-tu sûre que cette eau est très hygiénique ? <br>
 >Tok : Quelle sorte d’animal primitif est responsable de cette pagaille ?
 
-*Certes, Tarzan a grandit parmi les singes, néanmoins, à l'origine, ce petit d'homme est le fils d'anglais raffiné. Pour se retrouver à la jonction de ces univers ...* 
+*Certes, Tarzan a grandit parmi les singes, néanmoins, à l'origine, ce petit d'homme est le fils d'anglais raffiné. Pour se retrouver à la jonction de ces univers ...*
 
 **Pour 1 cocktail :**
 
@@ -46,4 +46,3 @@ author: # Add name author (optional)
 Dégustez immédiatement ! <br><br>
 
 ![Tarzan]({{site.baseurl}}/assets/img/liane-folie-film.jpeg)
-

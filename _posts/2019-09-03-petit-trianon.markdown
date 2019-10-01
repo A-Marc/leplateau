@@ -8,7 +8,7 @@ imgmini: petit-trianon-mini.jpg # Add image post (optional)
 tags: [Marie-Antoinette]
 author: # Add name author (optional)
 ---
-## Inspiré du film Marie-Antoinette, Sofia Coppola, 2008
+## Inspiré du film *Marie-Antoinette*, Sofia Coppola, 2008
 
 >&ndash; Tout ceci est ridicule ! <br> &ndash; Tout ceci Madame, c'est Versailles !
 
@@ -43,4 +43,3 @@ author: # Add name author (optional)
 Dégustez immédiatement ! <br><br>
 
 ![Marie-Antoinette]({{site.baseurl}}/assets/img/petit-trianon-film.jpg)
-
