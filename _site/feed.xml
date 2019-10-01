@@ -1,5 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-01T18:00:08+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Le Plateau - Les Cocktails inspirés du cinéma</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><author><name>Alix &amp; Marc</name></author><entry><title type="html">Le Mambo</title><link href="http://localhost:4000/mambo/" rel="alternate" type="text/html" title="Le Mambo" /><published>2019-09-24T12:32:20+02:00</published><updated>2019-09-24T12:32:20+02:00</updated><id>http://localhost:4000/mambo</id><content type="html" xml:base="http://localhost:4000/mambo/">&lt;h2 id=&quot;inspiré-du-film-west-side-story-de-j-robbins-et-r-wise-1962&quot;&gt;Inspiré du film &lt;em&gt;West Side Story&lt;/em&gt;, de J. Robbins et R. Wise, 1962&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-01T21:57:19+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Le Plateau - Les Cocktails inspirés du cinéma</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><author><name>Alix &amp; Marc</name></author><entry><title type="html">Le ticket d’or</title><link href="http://localhost:4000/ticket-dor/" rel="alternate" type="text/html" title="Le ticket d'or" /><published>2019-10-01T12:32:20+02:00</published><updated>2019-10-01T12:32:20+02:00</updated><id>http://localhost:4000/ticket-dor</id><content type="html" xml:base="http://localhost:4000/ticket-dor/">&lt;h2 id=&quot;le-ticket-dor&quot;&gt;Le Ticket d’Or&lt;/h2&gt;
+
+&lt;h2 id=&quot;inspiré-du-film-charlie-et-la-chocolaterie-de-tim-burton-2005&quot;&gt;Inspiré du film &amp;gt;Charlie et la Chocolaterie&lt;br /&gt;, de Tim Burton, 2005&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;5 Tickets d’Or ont été cachés dans 5 papiers d’emballages de 5 chocolats Wonka &lt;br /&gt;&lt;/li&gt;
+    &lt;li&gt;Ce serait formidable Charlie d’ouvrir une tablette de chocolat et de trouver un ticket d’or&lt;/li&gt;
+    &lt;li&gt;Mais je n’en reçois qu’une par an…&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Au delà de l’armée des Oompas Loompas, fontaines, forêts et cascades de chocolats, l’une des dernières étapes de la visite est consacrée à la création de cocktails…&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pour 1 cocktail :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;• 6 cl de Cointreau &lt;br /&gt;
+• 3cl de Kahlua &lt;br /&gt;
+• 9 cl de café glaçé (brut ou décaféiné) &lt;br /&gt;
+• 10 cl de lait froid &lt;br /&gt;
+• Glaçons &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pour la décoration :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;• 1 meringue enrobée de chocolat
+• Chocolat en poudre &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;La préparation :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; Dans le shaker, mélangez le Cointreau, le Kahlua et le café pour obtenir un tout homogène.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; Faire mousser le lait froid sans le chauffer dans une machine à cappuccino.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt; Versez le mélange du shaker dans le verre et déposez la mousse de lait par dessus&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.&lt;/strong&gt; Saupoudrez de cacao en poudre&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5.&lt;/strong&gt; Déposez la meringue sur le liseret du verre.&lt;/p&gt;
+
+&lt;p&gt;Dégustez immédiatement !&lt;/p&gt;</content><author><name>Alix &amp; Marc</name></author><category term="Charlie et la Chocolaterie" /><summary type="html">Le Ticket d’Or</summary></entry><entry><title type="html">Le Mambo</title><link href="http://localhost:4000/mambo/" rel="alternate" type="text/html" title="Le Mambo" /><published>2019-09-24T12:32:20+02:00</published><updated>2019-09-24T12:32:20+02:00</updated><id>http://localhost:4000/mambo</id><content type="html" xml:base="http://localhost:4000/mambo/">&lt;h2 id=&quot;inspiré-du-film-west-side-story-de-j-robbins-et-r-wise-1962&quot;&gt;Inspiré du film &lt;em&gt;West Side Story&lt;/em&gt;, de J. Robbins et R. Wise, 1962&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;– I’m not one of them Maria &lt;br /&gt;
@@ -73,8 +112,8 @@
 &lt;p&gt;&lt;img src=&quot;/assets/img/high-noon-film.jpg&quot; alt=&quot;Le train sifflera trois fois&quot; /&gt;&lt;/p&gt;</content><author><name>Alix &amp; Marc</name></author><category term="Le train sifflera trois fois" /><summary type="html">Inspiré du film Le Train sifflera trois fois, de Fred Zinneman, 1952</summary></entry><entry><title type="html">La Liane Folie</title><link href="http://localhost:4000/liane-folie/" rel="alternate" type="text/html" title="La Liane Folie" /><published>2019-09-10T12:32:20+02:00</published><updated>2019-09-10T12:32:20+02:00</updated><id>http://localhost:4000/liane-folie</id><content type="html" xml:base="http://localhost:4000/liane-folie/">&lt;h2 id=&quot;inspiré-du-film-tarzan-de-k-lima--c-buck-des-studios-disney-1999&quot;&gt;Inspiré du film &lt;em&gt;Tarzan&lt;/em&gt;, de K. Lima &amp;amp; C. Buck des Studios Disney, 1999&lt;/h2&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Tantor : Maman ! Es-tu sûre que cette eau est très hygiénique ? &lt;br /&gt;
-Tok : Quelle sorte d’animal primitif est responsable de cette pagaille ?&lt;/p&gt;
+  &lt;p&gt;–Tantor : Maman ! Es-tu sûre que cette eau est très hygiénique ? &lt;br /&gt;
+–Tok : Quelle sorte d’animal primitif est responsable de cette pagaille ?&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;em&gt;Certes, Tarzan a grandit parmi les singes, néanmoins, à l’origine, ce petit d’homme est le fils d’anglais raffiné. Pour se retrouver à la jonction de ces univers …&lt;/em&gt;&lt;/p&gt;
@@ -204,16 +243,4 @@ Tok : Quelle sorte d’animal primitif est responsable de cette pagaille ?&lt;/p
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Alix &amp; Marc</name></author><category term="Gin" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Le James Bond</title><link href="http://localhost:4000/the-forest-in-the-fog/" rel="alternate" type="text/html" title="Le James Bond" /><published>2017-08-20T12:32:20+02:00</published><updated>2017-08-20T12:32:20+02:00</updated><id>http://localhost:4000/the-forest-in-the-fog</id><content type="html" xml:base="http://localhost:4000/the-forest-in-the-fog/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Alix &amp; Marc</name></author><category term="Vodka" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Alix &amp; Marc</name></author><category term="Gin" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
