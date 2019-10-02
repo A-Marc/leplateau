@@ -1,14 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-01T21:57:19+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Le Plateau - Les Cocktails inspirés du cinéma</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><author><name>Alix &amp; Marc</name></author><entry><title type="html">Le ticket d’or</title><link href="http://localhost:4000/ticket-dor/" rel="alternate" type="text/html" title="Le ticket d'or" /><published>2019-10-01T12:32:20+02:00</published><updated>2019-10-01T12:32:20+02:00</updated><id>http://localhost:4000/ticket-dor</id><content type="html" xml:base="http://localhost:4000/ticket-dor/">&lt;h2 id=&quot;le-ticket-dor&quot;&gt;Le Ticket d’Or&lt;/h2&gt;
-
-&lt;h2 id=&quot;inspiré-du-film-charlie-et-la-chocolaterie-de-tim-burton-2005&quot;&gt;Inspiré du film &amp;gt;Charlie et la Chocolaterie&lt;br /&gt;, de Tim Burton, 2005&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-02T12:56:29+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Le Plateau - Les Cocktails inspirés du cinéma</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><author><name>Alix &amp; Marc</name></author><entry><title type="html">Le ticket d’or</title><link href="http://localhost:4000/ticket-dor/" rel="alternate" type="text/html" title="Le ticket d'or" /><published>2019-10-01T12:32:20+02:00</published><updated>2019-10-01T12:32:20+02:00</updated><id>http://localhost:4000/ticket-dor</id><content type="html" xml:base="http://localhost:4000/ticket-dor/">&lt;h2 id=&quot;inspiré-du-film-charlie-et-la-chocolaterie-de-tim-burton-2005&quot;&gt;Inspiré du film &lt;em&gt;Charlie et la Chocolaterie&lt;/em&gt;, de Tim Burton, 2005&lt;/h2&gt;
 
 &lt;blockquote&gt;
-  &lt;ul&gt;
-    &lt;li&gt;5 Tickets d’Or ont été cachés dans 5 papiers d’emballages de 5 chocolats Wonka &lt;br /&gt;&lt;/li&gt;
-    &lt;li&gt;Ce serait formidable Charlie d’ouvrir une tablette de chocolat et de trouver un ticket d’or&lt;/li&gt;
-    &lt;li&gt;Mais je n’en reçois qu’une par an…&lt;/li&gt;
-  &lt;/ul&gt;
+  &lt;p&gt;– 5 Tickets d’Or ont été cachés dans 5 papiers d’emballages de 5 chocolats Wonka &lt;br /&gt;
+– Ce serait formidable Charlie d’ouvrir une tablette de chocolat et de trouver un ticket d’or &lt;br /&gt;
+– Mais je n’en reçois qu’une par an…&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;em&gt;Au delà de l’armée des Oompas Loompas, fontaines, forêts et cascades de chocolats, l’une des dernières étapes de la visite est consacrée à la création de cocktails…&lt;/em&gt;&lt;/p&gt;
@@ -38,7 +34,7 @@
 
 &lt;p&gt;&lt;strong&gt;5.&lt;/strong&gt; Déposez la meringue sur le liseret du verre.&lt;/p&gt;
 
-&lt;p&gt;Dégustez immédiatement !&lt;/p&gt;</content><author><name>Alix &amp; Marc</name></author><category term="Charlie et la Chocolaterie" /><summary type="html">Le Ticket d’Or</summary></entry><entry><title type="html">Le Mambo</title><link href="http://localhost:4000/mambo/" rel="alternate" type="text/html" title="Le Mambo" /><published>2019-09-24T12:32:20+02:00</published><updated>2019-09-24T12:32:20+02:00</updated><id>http://localhost:4000/mambo</id><content type="html" xml:base="http://localhost:4000/mambo/">&lt;h2 id=&quot;inspiré-du-film-west-side-story-de-j-robbins-et-r-wise-1962&quot;&gt;Inspiré du film &lt;em&gt;West Side Story&lt;/em&gt;, de J. Robbins et R. Wise, 1962&lt;/h2&gt;
+&lt;p&gt;Dégustez immédiatement !&lt;/p&gt;</content><author><name>Alix &amp; Marc</name></author><category term="Charlie et la Chocolaterie" /><summary type="html">Inspiré du film Charlie et la Chocolaterie, de Tim Burton, 2005</summary></entry><entry><title type="html">Le Mambo</title><link href="http://localhost:4000/mambo/" rel="alternate" type="text/html" title="Le Mambo" /><published>2019-09-24T12:32:20+02:00</published><updated>2019-09-24T12:32:20+02:00</updated><id>http://localhost:4000/mambo</id><content type="html" xml:base="http://localhost:4000/mambo/">&lt;h2 id=&quot;inspiré-du-film-west-side-story-de-j-robbins-et-r-wise-1962&quot;&gt;Inspiré du film &lt;em&gt;West Side Story&lt;/em&gt;, de J. Robbins et R. Wise, 1962&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;– I’m not one of them Maria &lt;br /&gt;

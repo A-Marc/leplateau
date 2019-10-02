@@ -1,21 +1,18 @@
----
+﻿---
 layout: post
 title: Le ticket d'or
 date: 2019-10-01 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: le-tiquet-dor-site.png # Add image post (optional)
-imgmini : le-tiquet-dor-site.png
+img: tiquet-dor.png # Add image post (optional)
+imgmini : tiquet-dor.png
 tags: [Charlie et la Chocolaterie]
 author: # Add name author (optional)
 ---
+## Inspiré du film *Charlie et la Chocolaterie*, de Tim Burton, 2005
 
-## Le Ticket d’Or
-
-## Inspiré du film >Charlie et la Chocolaterie<br>, de Tim Burton, 2005
-
->- 5 Tickets d’Or ont été cachés dans 5 papiers d’emballages de 5 chocolats Wonka <br>
->- Ce serait formidable Charlie d’ouvrir une tablette de chocolat et de trouver un ticket d’or
->- Mais je n’en reçois qu’une par an...
+>&ndash; 5 Tickets d’Or ont été cachés dans 5 papiers d’emballages de 5 chocolats Wonka <br>
+>&ndash; Ce serait formidable Charlie d’ouvrir une tablette de chocolat et de trouver un ticket d’or <br>
+>&ndash; Mais je n’en reçois qu’une par an...
 
 *Au delà de l’armée des Oompas Loompas, fontaines, forêts et cascades de chocolats, l’une des dernières étapes de la visite est consacrée à la création de cocktails...*
 
