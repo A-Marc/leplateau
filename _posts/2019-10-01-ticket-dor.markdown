@@ -26,7 +26,7 @@ author: # Add name author (optional)
 
 **Pour la décoration :**
 
-• 1 meringue enrobée de chocolat
+• 1 meringue enrobée de chocolat <br>
 • Chocolat en poudre <br>
 
 **La préparation :**
@@ -41,4 +41,6 @@ author: # Add name author (optional)
 
 **5.** Déposez la meringue sur le liseret du verre.
 
-Dégustez immédiatement !
+Dégustez immédiatement ! <br><br>
+
+![Charlie et la Chocolaterie]({{site.baseurl}}/assets/img/tiquet-dor-film.jpg)
