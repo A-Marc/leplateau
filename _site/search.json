@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Le Riviera",
+      "category" : "",
+      "tags"     : "Hors de Prix",
+      "url"      : "/riviera/",
+      "date"     : "2019-10-08 12:32:20 +0200"
+    } ,
+  
+    {
       "title"    : "Le ticket d&#39;or",
       "category" : "",
       "tags"     : "Charlie et la Chocolaterie",
@@ -38,54 +46,6 @@
       "tags"     : "Marie-Antoinette",
       "url"      : "/petit-trianon/",
       "date"     : "2019-09-01 12:32:20 +0200"
-    } ,
-  
-    {
-      "title"    : "Le Mad Men",
-      "category" : "",
-      "tags"     : "Vodka",
-      "url"      : "/i-conquer-the-himalayas/",
-      "date"     : "2017-08-25 12:32:20 +0200"
-    } ,
-  
-    {
-      "title"    : "Le Gatsby",
-      "category" : "",
-      "tags"     : "Tequila",
-      "url"      : "/i-meet-the-sunset/",
-      "date"     : "2017-08-24 12:32:20 +0200"
-    } ,
-  
-    {
-      "title"    : "L&#39;ocean eleven",
-      "category" : "",
-      "tags"     : "Rhum",
-      "url"      : "/meeting-with-adventures/",
-      "date"     : "2017-08-23 12:32:20 +0200"
-    } ,
-  
-    {
-      "title"    : "Le Pulp Fiction",
-      "category" : "",
-      "tags"     : "Rhum",
-      "url"      : "/snowboarding-and-my-life/",
-      "date"     : "2017-08-22 12:32:20 +0200"
-    } ,
-  
-    {
-      "title"    : "Le Grand Bleu",
-      "category" : "",
-      "tags"     : "Gin",
-      "url"      : "/time-to-think/",
-      "date"     : "2017-08-21 12:32:20 +0200"
-    } ,
-  
-    {
-      "title"    : "Le James Bond",
-      "category" : "",
-      "tags"     : "Vodka",
-      "url"      : "/the-forest-in-the-fog/",
-      "date"     : "2017-08-20 12:32:20 +0200"
     } 
   
 ]

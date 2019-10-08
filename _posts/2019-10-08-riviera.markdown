@@ -1,0 +1,39 @@
+﻿---
+layout: post
+title: Le Riviera
+date: 2019-10-08 13:32:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: riviera.png # Add image post (optional)
+imgmini : riviera.png
+tags: [Hors de Prix]
+author: # Add name author (optional)
+---
+## Inspiré du film *Hors de Prix*, de Pierre Salvadori, 2006
+
+*Au delà des lumières des hôtels de la croisette, au lieu de monter la garde derrière le bar, le serveur s’endort dans un canapé en cuir dans l’espace salon. Réveillé par une croqueuse de diamants, il lui confectionne pour la séduire, le cocktail Riviera ...*
+
+**Pour 1 cocktail :**
+
+• 1,5 cl de Vodka <br>
+• 5 cl de Saint Germain <br>
+• 1 jus de citron <br>
+• Eau pétillante <br>
+• Glaçons <br>
+
+**Pour la décoration :**
+
+• 3 cerises confites <br>
+
+**La préparation :**
+
+**1.** Dans le shaker, mélangez la Vodka, le Saint Germain et le citron pour obtenir un tout homogène.
+
+**2.** Versez le mélange du shaker dans le verre et ajoutez l’eau pétillante 
+
+**3.** Déposez les cerises sur le liseret du verre.
+
+Dégustez immédiatement ! <br><br>
+
+![Hors de Prix]({{site.baseurl}}/assets/img/hors-de-prix.jpg)
+
+
