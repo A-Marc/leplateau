@@ -1,0 +1,45 @@
+﻿---
+layout: post
+title: Le Tiffany's
+date: 2019-10-20 13:32:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: tiffanys.png # Add image post (optional)
+imgmini : tiffanys.png
+tags: [Diamants sur Canapé]
+author: # Add name author (optional)
+---
+## Inspiré du film *Diamants sur canapé*, de Blake Edwards, 1961
+
+
+>&ndash; Holly Golightly : I’ll tell you one thing, Fred, darling… I’d marry you for your money in a minute. Would you marry me for my money? <br>
+>&ndash; Paul Varjak : In a minute. <br>
+>&ndash; Holly Golightly : I guess it’s pretty lucky neither of us is rich, huh? <br>
+>&ndash; Paul Varjak : Yeah. <br>
+
+
+**Pour 1 cocktail :**
+
+• Prosecco <br>
+• 3 cl de Saint Germain <br>
+• quelques gouttes de sirop de violette <br>
+• 1 jus de citron vert <br>
+• Glaçons <br>
+
+**Pour la décoration :**
+
+• 1 fleur de chardon <br>
+
+**La préparation :**
+
+**1.** Pressez le jus de citron au fonds du verre.
+
+**2.** Ajoutez le St Germain puis remplissez la coupe de Prosecco
+
+**3.** Versez les quelques gouttes de sirop de violette au fonds du verre jusqu’à ce que le mélange soit à votre goût
+
+**4.** Ajoutez la fleur de chardon à la surface du cocktail
+
+Dégustez immédiatement ! <br><br>
+
+![Diamants sur canapé]({{site.baseurl}}/assets/img/diamants.jpg)
+
