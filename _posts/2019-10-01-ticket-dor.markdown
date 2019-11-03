@@ -4,7 +4,7 @@ title: Le ticket d'or
 date: 2019-10-01 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: tiquet-dor.png # Add image post (optional)
-imgmini : tiquet-dor.png
+imgmini : tiquet-dor-mini.png
 tags: [Charlie et la Chocolaterie]
 author: # Add name author (optional)
 ---
