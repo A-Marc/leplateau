@@ -1,5 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-03T19:34:54+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Le Plateau - Les Cocktails inspirés du cinéma</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><author><name>Alix &amp; Marc</name></author><entry><title type="html">Le Black Pearl</title><link href="http://localhost:4000/blackpearl/" rel="alternate" type="text/html" title="Le Black Pearl" /><published>2019-11-02T11:32:20+01:00</published><updated>2019-11-02T11:32:20+01:00</updated><id>http://localhost:4000/blackpearl</id><content type="html" xml:base="http://localhost:4000/blackpearl/">&lt;h2 id=&quot;inspiré-du-film-pirates-des-caraïbes-la-malédiction-du-black-pearl-de-gregor-verbinski-2003&quot;&gt;Inspiré du film &lt;em&gt;Pirates des Caraïbes, la malédiction du Black Pearl&lt;/em&gt;, de Gregor Verbinski, 2003&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-05T21:44:12+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Le Plateau - Les Cocktails inspirés du cinéma</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><author><name>Alix &amp; Marc</name></author><entry><title type="html">Le Strangerson</title><link href="http://localhost:4000/strangerson/" rel="alternate" type="text/html" title="Le Strangerson" /><published>2019-11-05T11:32:20+01:00</published><updated>2019-11-05T11:32:20+01:00</updated><id>http://localhost:4000/strangerson</id><content type="html" xml:base="http://localhost:4000/strangerson/">&lt;h2 id=&quot;inspiré-du-film-le-mystère-de-la-chambre-jaune-de-bruno-podalydès-2003&quot;&gt;Inspiré du film &lt;em&gt;Le mystère de la chambre jaune&lt;/em&gt;, de Bruno Podalydès, 2003&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;– Je suis allé poser cette question à la chambre jaune, et la chambre jaune m’a répondu. &lt;br /&gt;
+– Il va de soi, euh, dorénavant, qu’en tout état de cause, après ces nouveaux faits relatés et en vertu des pouvoirs dont je dispose, c’est-à-dire dans l’immédiat, euh, vous allez, euh, être remis en liberté provisoire. &lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Pour 1 cocktail :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;• 3 cl de Cointreau &lt;br /&gt;
+• 9 cl de jus de poire &lt;br /&gt;
+• 3 gouttes d’Angostura bitter  &lt;br /&gt;
+• 1 jus de citron vert &lt;br /&gt;
+• 1 pincée de cannelle &lt;br /&gt;
+• Glaçons &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pour la décoration :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;• 3 gouttes de colorant alimentaire jaune &lt;br /&gt;
+• 1 feuille d’automne &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;La préparation :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; Mélangez dans le shaker le citron pressé, le Cointreau, le jus de poire, la pincée de cannelle.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; Shakez avec les glaçons.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt; Mélangez avec la cuillère le mélange et les 2 ou 3 gouttes de colorant alimentaire.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.&lt;/strong&gt; Versez le mélange dans le verre contenant déjà quelques glaçons.&lt;/p&gt;
+
+&lt;p&gt;Dégustez immédiatement ! &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/chambre-jaune.gif&quot; alt=&quot;Le mystère de la chambre jaune&quot; /&gt;&lt;/p&gt;</content><author><name>Alix &amp; Marc</name></author><category term="Le mystère de la chambre jaune" /><summary type="html">Inspiré du film Le mystère de la chambre jaune, de Bruno Podalydès, 2003</summary></entry><entry><title type="html">Le Black Pearl</title><link href="http://localhost:4000/blackpearl/" rel="alternate" type="text/html" title="Le Black Pearl" /><published>2019-11-02T11:32:20+01:00</published><updated>2019-11-02T11:32:20+01:00</updated><id>http://localhost:4000/blackpearl</id><content type="html" xml:base="http://localhost:4000/blackpearl/">&lt;h2 id=&quot;inspiré-du-film-pirates-des-caraïbes-la-malédiction-du-black-pearl-de-gregor-verbinski-2003&quot;&gt;Inspiré du film &lt;em&gt;Pirates des Caraïbes, la malédiction du Black Pearl&lt;/em&gt;, de Gregor Verbinski, 2003&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;– Le Black Pearl ? Je connais sa légende. Il bombarde navires et campements depuis près de dix ans. ll laisse jamais de survivant. &lt;br /&gt;
