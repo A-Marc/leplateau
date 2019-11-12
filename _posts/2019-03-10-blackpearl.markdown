@@ -10,7 +10,7 @@ author: # Add name author (optional)
 ---
 ## Inspiré du film *Pirates des Caraïbes, la malédiction du Black Pearl*, de Gregor Verbinski, 2003
 
->&ndash; Le Black Pearl ? Je connais sa légende. Il bombarde navires et campements depuis près de dix ans. ll laisse jamais de survivant. <br>
+>&ndash; Le Black Pearl ? Je connais sa légende. Il bombarde navires et campements depuis près de dix ans. ll ne laisse jamais de survivant. <br>
 >&ndash; Pas de survivants ? Comment les légendes prendraient forme dans ce cas là ? <br>
 >&ndash;Soit c’est du génie, soit c’est de la folie. <br>
 >&ndash; Ce qui est le plus marrant, c’est que le plus souvent, ces deux choses vont ensemble. <br>
