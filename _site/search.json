@@ -1,10 +1,18 @@
 [
   
     {
-      "title"    : "Le Strangerson",
+      "title"    : "Mille et une nuits",
+      "category" : "",
+      "tags"     : "Aladdin",
+      "url"      : "/milles-et-une-nuit/",
+      "date"     : "2019-11-12 11:32:20 +0100"
+    } ,
+  
+    {
+      "title"    : "Le Ballmeyer",
       "category" : "",
       "tags"     : "Le mystère de la chambre jaune",
-      "url"      : "/strangerson/",
+      "url"      : "/ballmeyer/",
       "date"     : "2019-11-05 11:32:20 +0100"
     } ,
   
