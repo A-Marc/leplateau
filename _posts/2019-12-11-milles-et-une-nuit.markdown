@@ -41,4 +41,4 @@ author: # Add name author (optional)
 
 Dégustez immédiatement ! <br><br>
 
-![Aladdin]({{site.baseurl}}/assets/img/aladdin.jpg)
+![Aladdin]({{site.baseurl}}/assets/img/aladdin2.jpg)
