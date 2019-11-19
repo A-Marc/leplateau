@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Mille et une nuits
+title: Le Mille et une nuits
 date: 2019-11-12 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: milles-et-une-nuit-v1.png # Add image post (optional)

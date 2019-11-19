@@ -1,0 +1,43 @@
+﻿---
+layout: post
+title: Le Solognot
+date: 2019-11-19 13:32:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: le-solognot.png # Add image post (optional)
+imgmini : le-solognot-mini.png
+tags: [L’école buissonnière]
+author: # Add name author (optional)
+---
+## Inspiré du film *L’école buissonnière*, de Nicolas Vannier, 2017
+
+Au bout de l’allée forestière, là où la brume avait avalé le monde, quelque chose émergeait lentement, une chimère grandissant comme dans un rêve. Un cerf immense déchira le brouillard, sa ramure était si ample que, pendant un instant, Paul crut que l’ombre l’avait décuplé.<br>
+
+**Pour 1 grand cocktail :**
+
+• 12 cl de vin rouge (rond et équilibré) <br>
+• 4 cl de Cointreau <br>
+• 4 cl de sirop de sucre de canne <br>
+• 12 mûres des bois <br>
+• 3 gouttes d'Angostura bitter  <br>
+• 1 jus de citron vert <br>
+• 1 pincée de cannelle en poudre <br>
+• Glaçons <br>
+
+**Pour la décoration :**
+
+• 1 branche de feuillages <br>
+• 1 verre de vin <br>
+
+**La préparation :**
+ 
+**1.** Épépinez les mûres puis les pilonner dans un bol. Une fois le mélange homogène, le verser dans le fonds du verre et le mélanger avec le jus de citron vert pressé. Remuez.
+
+**2.** Ajoutez le sirop de sucre, les gouttes d’Angostura bitter, le Cointreau . 
+
+**3.** Mélangez avec la cuillère le mélange, ajoutez les glaçons puis versez le vin rouge avant de saupoudrer avec une pincée de cannelle.
+
+**4.** Ajoutez une branche d’arbuste en guise de décoration. 
+
+Dégustez immédiatement ! <br><br>
+
+![L’école buissonière]({{site.baseurl}}/assets/img/ecole.jpg)
