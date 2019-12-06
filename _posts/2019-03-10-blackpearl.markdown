@@ -18,10 +18,10 @@ author: # Add name author (optional)
 
 **Pour 1 cocktail :**
 
-• 3 cl de Rhum ambré <br>
-• 1,5 cl de sirop d’orgeat <br>
-• 3 gouttes d'Angostura bitter  <br>
-• 1,5 cl d’eau de coco <br>
+• 3 cl de Rhum ambré [🛒](https://www.amazon.fr/gp/product/B00MEJTD2Q/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=leplateau-21&creative=6746&linkCode=as2&creativeASIN=B00MEJTD2Q&linkId=4ed6280c7d7f163f1955cd2ebbf42ace){:target="_blank"}<br>
+• 1,5 cl de sirop d’orgeat [🛒](https://www.amazon.fr/gp/product/B004637UKK/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=leplateau-21&creative=6746&linkCode=as2&creativeASIN=B004637UKK&linkId=0582a538466735f67a266e43b49fa3bd){:target="_blank"}<br>
+• 3 gouttes d'Angostura bitter [🛒](https://www.amazon.fr/gp/product/B00576SHBQ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=leplateau-21&creative=6746&linkCode=as2&creativeASIN=B00576SHBQ&linkId=80542f660ed7e2b7078686caa42aa28e){:target="_blank"} <br>
+• 1,5 cl d’eau de coco [🛒](https://www.amazon.fr/gp/product/B0148OJ3HO/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=leplateau-21&creative=6746&linkCode=as2&creativeASIN=B0148OJ3HO&linkId=30faebd7a7c5e32b127c142f841363a8){:target="_blank"}<br>
 • 1 jus de citron vert <br>
 • Glaçons <br>
 
@@ -31,14 +31,14 @@ author: # Add name author (optional)
 • Perles de tapioca noires <br>
 
 **La préparation :**
- 
-**1.** Plongez les perles de tapioca dans de l’eau bouillante et laissez frémir jusqu’à ce que les perles remontent à la surface. Retirez du feu, égouttez les perles puis plongez les dans l’eau glacée 20 secondes avant de les mettre au sec dans un bol. 
+
+**1.** Plongez les perles de tapioca dans de l’eau bouillante et laissez frémir jusqu’à ce que les perles remontent à la surface. Retirez du feu, égouttez les perles puis plongez les dans l’eau glacée 20 secondes avant de les mettre au sec dans un bol.
 
 **2.** Pressez le citron vert au fonds du shaker, ajoutez le rhum, le sirop d’orgeat, les gouttes d'Angostura bitter et l’eau de coco.  
 
-**3.** Shakez avec les glaçons. 
+**3.** Shakez avec les glaçons.
 
-**4.** Déposez 2 grandes cuillères de perles de tapioca au fonds du verre, couvrir d’une couche de glaçons, versez le cocktail par dessus. 
+**4.** Déposez 2 grandes cuillères de perles de tapioca au fonds du verre, couvrir d’une couche de glaçons, versez le cocktail par dessus.
 
 Dégustez immédiatement ! <br><br>
 

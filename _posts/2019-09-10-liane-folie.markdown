@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title: La Liane Folie
+title: Le Liane Folie
 date: 2019-09-10 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: liane-folie.png # Add image post (optional)
@@ -20,9 +20,9 @@ author: # Add name author (optional)
 
 • 1/2 concombre <br>
 • 1 jus de citron vert frais <br>
-• 1 cl de sirop de sucre de canne <br>
+• 1 cl de sirop de sucre de canne [🛒](https://www.amazon.fr/gp/product/B004FN9UQS/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=leplateau-21&creative=6746&linkCode=as2&creativeASIN=B004FN9UQS&linkId=02ecd688d99d896ad958293fc1998f1f){:target="_blank"}  <br>
 • Feuilles de menthe <br>
-• 1,5 cl de Charteuses <br>
+• 1,5 cl de Charteuses [🛒](https://www.amazon.fr/gp/product/B0029ZG04Y/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=leplateau-21&creative=6746&linkCode=as2&creativeASIN=B0029ZG04Y&linkId=145f234a367d5213b8aa64460b6dc65b){:target="_blank"}  <br>
 • Eau pétillante <br>
 • Glaçons <br>
 

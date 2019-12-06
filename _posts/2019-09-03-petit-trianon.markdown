@@ -17,9 +17,9 @@ author: # Add name author (optional)
 **Pour 1 cocktail :**
 
 • 7 framboises<br>
-• 1,5 Cl de crème de framboise<br>
+• 1,5 Cl de crème de framboise [🛒](https://www.amazon.fr/gp/product/B0047WNL94/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=leplateau-21&creative=6746&linkCode=as2&creativeASIN=B0047WNL94&linkId=01e62f96e8691c282d594c76d9eaf0bc){:target="_blank"} <br>
 • Glace pilée<br>
-• 20 cl de Champagne<br>
+• 20 cl de Champagne [🛒](https://www.amazon.fr/gp/product/B07147RSSX/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=leplateau-21&creative=6746&linkCode=as2&creativeASIN=B07147RSSX&linkId=d8dd50cedfa285743d83b84e74efabee){:target="_blank"} <br>
 
 **Pour la décoration :**
 

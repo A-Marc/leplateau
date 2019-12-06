@@ -18,10 +18,10 @@ author: # Add name author (optional)
 
 **Pour 1 cocktail :**
 
-• 3 cl de sirop d’érable <br>
+• 3 cl de sirop d’érable [🛒](https://www.amazon.fr/gp/product/B019TFXUVW/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=leplateau-21&creative=6746&linkCode=as2&creativeASIN=B019TFXUVW&linkId=cfa9ce7c8d3077332264647333c9a161){:target="_blank"}<br>
 • 1 jus de citron jaune <br>
-• 1 pincée de cannelle en poudre <br>
-• 1,5 cl de Whisky ambré <br>
+• 1 pincée de cannelle en poudre [🛒](https://www.amazon.fr/gp/product/B06XKJV696/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=leplateau-21&creative=6746&linkCode=as2&creativeASIN=B06XKJV696&linkId=bc090be85121cabf9220fba3cd34b817){:target="_blank"}<br>
+• 1,5 cl de Whisky ambré [🛒](https://www.amazon.fr/gp/product/B00XABRW34/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=leplateau-21&creative=6746&linkCode=as2&creativeASIN=B00XABRW34&linkId=721d1505793c31f54d5345b13cbd8415){:target="_blank"}<br>
 • Glaçons <br>
 
 **Pour la décoration :**
@@ -43,4 +43,3 @@ author: # Add name author (optional)
 Dégustez immédiatement ! <br><br>
 
 ![Le train sifflera trois fois]({{site.baseurl}}/assets/img/high-noon-film.jpg)
-

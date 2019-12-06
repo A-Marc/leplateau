@@ -14,8 +14,8 @@ author: # Add name author (optional)
 
 **Pour 1 cocktail :**
 
-• 1,5 cl de Vodka <br>
-• 5 cl de Saint Germain <br>
+• 1,5 cl de Vodka [🛒](https://www.amazon.fr/gp/product/B004JV7SQA/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=leplateau-21&creative=6746&linkCode=as2&creativeASIN=B004JV7SQA&linkId=d06c7d439f8412beeb0a02c4b1dc53cf){:target="_blank"}<br>
+• 5 cl de Saint Germain [🛒](https://www.amazon.fr/gp/product/B004JUT93Q/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=leplateau-21&creative=6746&linkCode=as2&creativeASIN=B004JUT93Q&linkId=c7caa84f7d294f76d1bea2c29b222c6d){:target="_blank"}<br>
 • 1 jus de citron <br>
 • Eau pétillante <br>
 • Glaçons <br>
@@ -28,12 +28,10 @@ author: # Add name author (optional)
 
 **1.** Dans le shaker, mélangez la Vodka, le Saint Germain et le citron pour obtenir un tout homogène.
 
-**2.** Versez le mélange du shaker dans le verre et ajoutez l’eau pétillante 
+**2.** Versez le mélange du shaker dans le verre et ajoutez l’eau pétillante
 
 **3.** Déposez les cerises sur le liseret du verre.
 
 Dégustez immédiatement ! <br><br>
 
 ![Hors de Prix]({{site.baseurl}}/assets/img/hors-de-prix.jpg)
-
-

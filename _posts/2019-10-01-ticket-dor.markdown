@@ -18,8 +18,8 @@ author: # Add name author (optional)
 
 **Pour 1 cocktail :**
 
-• 6 cl de Cointreau <br>
-• 3cl de Kahlua <br>
+• 6 cl de Cointreau [🛒](https://www.amazon.fr/gp/product/B002VPUPMA/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=leplateau-21&creative=6746&linkCode=as2&creativeASIN=B002VPUPMA&linkId=5d711fb3f238b112cc7b715830ac2607){:target="_blank"}<br>
+• 3cl de Kahlua [🛒](https://www.amazon.fr/gp/product/B005UXQHM2/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=leplateau-21&creative=6746&linkCode=as2&creativeASIN=B005UXQHM2&linkId=99e75295d2bb7d122b33d7baf7947c40){:target="_blank"} <br>
 • 9 cl de café glaçé (brut ou décaféiné) <br>
 • 10 cl de lait froid <br>
 • Glaçons <br>

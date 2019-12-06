@@ -19,9 +19,9 @@ author: # Add name author (optional)
 
 **Pour 1 cocktail :**
 
-• Prosecco <br>
-• 3 cl de Saint Germain <br>
-• quelques gouttes de sirop de violette <br>
+• Prosecco [🛒](https://www.amazon.fr/gp/product/B07JNSQWWP/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=leplateau-21&creative=6746&linkCode=as2&creativeASIN=B07JNSQWWP&linkId=e84eb9dfdc3e8dd8872b1f3e8b16202f){:target="_blank"} <br>
+• 3 cl de Saint Germain [🛒](https://www.amazon.fr/gp/product/B004JUT93Q/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=leplateau-21&creative=6746&linkCode=as2&creativeASIN=B004JUT93Q&linkId=c7caa84f7d294f76d1bea2c29b222c6d){:target="_blank"} <br>
+• quelques gouttes de sirop de violette [🛒](https://www.amazon.fr/gp/product/B077MYFXGC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=leplateau-21&creative=6746&linkCode=as2&creativeASIN=B077MYFXGC&linkId=12e98edf3710122daf1886887073f041){:target="_blank"} <br>
 • 1 jus de citron vert <br>
 • Glaçons <br>
 
@@ -42,4 +42,3 @@ author: # Add name author (optional)
 Dégustez immédiatement ! <br><br>
 
 ![Diamants sur canapé]({{site.baseurl}}/assets/img/diamants.jpg)
-
