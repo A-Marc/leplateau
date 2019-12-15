@@ -4,7 +4,7 @@ title: Le Scaramanga
 date: 2019-12-03 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: scaramanga.png # Add image post (optional)
-imgmini : scaramanga.png
+imgmini : scaramanga-mini.png
 tags: [L’Homme au pistolet d’or]
 author: # Add name author (optional)
 ---
